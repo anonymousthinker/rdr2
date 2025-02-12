@@ -1,0 +1,63 @@
+.text-style {
+  font-size: 60px;
+  font-family: "Teko";
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.award-name {
+  font-size: 80px;
+  font-weight: 900;
+  font-family: "Teko";
+  text-transform: uppercase;
+  line-height: 1;
+  color: #ff9544;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0);
+}
+
+.award-div {
+  border-radius: 40px;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 60%;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+}
+
+.heading {
+  background-color: #ba1200;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Teko";
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.div-style {
+  border-radius: 40px;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: 60%;
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: lighten;
+  display: flex;
+  color: black;
+}
+
+nav {
+  background-color: #ba1200;
+  padding: 10px;
+}
+
+a {
+  color: white;
+  padding: 20px;
+  font-weight: 900;
+}
+
+#video-container {
+  position: relative;
+  width: 100%;
+}
